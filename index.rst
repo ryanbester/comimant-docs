@@ -6,11 +6,23 @@
 Welcome to Comimant's documentation!
 ====================================
 
-Comimant is an open source platform to create an intranet website.
+.. toctree::
+   :maxdepth: 1
+
+   intro
+   todo
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Comimant
+   :maxdepth: 1
+   
+..  comimant/installation
+
+.. toctree::
+   :caption: Comimant server
+   :maxdepth: 1
+
+..   comimant-server/installation
 
 
 Indices and tables
