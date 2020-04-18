@@ -10,18 +10,22 @@ Welcome to Comimant's documentation!
    :maxdepth: 1
 
    intro
+   how-it-works
    todo
+   protocol
 
 .. toctree::
    :caption: Comimant
    :maxdepth: 1
    
+   comimant/system-requirements
 ..  comimant/installation
 
 .. toctree::
    :caption: Comimant server
    :maxdepth: 1
 
+   comimant-server/system-requirements
 ..   comimant-server/installation
 
 
