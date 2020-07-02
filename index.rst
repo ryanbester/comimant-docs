@@ -19,14 +19,24 @@ Welcome to Comimant's documentation!
    :maxdepth: 1
    
    comimant/system-requirements
-..  comimant/installation
-
+   comimant/installation
+   comimant/configuration
+   comimant/permissions
+   
 .. toctree::
    :caption: Comimant server
    :maxdepth: 1
 
    comimant-server/system-requirements
 ..   comimant-server/installation
+
+.. toctree::
+   :caption: Resources
+   :maxdepth: 1
+
+   resources/database-schema
+   resources/default-config
+   resources/webserver-config
 
 
 Indices and tables
